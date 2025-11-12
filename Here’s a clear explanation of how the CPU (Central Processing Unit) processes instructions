@@ -1,0 +1,21 @@
+The CPU is the brain of the computer — it carries out all the processing by following a series of steps known as the fetch–decode–execute cycle.
+The Fetch–Decode–Execute Cycle
+
+1. Fetch
+The CPU fetches (retrieves) an instruction from the main memory (RAM).
+The Program Counter (PC) keeps track of the memory address of the next instruction.
+The fetched instruction is stored in the Instruction Register (IR).
+
+2. Decode
+The Control Unit (CU) reads and decodes the fetched instruction to understand what needs to be done.
+It identifies whether the instruction involves data movement, arithmetic, logic, or control.
+
+3. Execute
+The Arithmetic Logic Unit (ALU) or other CPU components carry out the instruction.
+This might involve:
+Performing calculations (add, subtract, compare)
+Moving data between registers or memory
+Making decisions or changing the flow of the program
+
+4. Repeat
+The Program Counter updates to point to the next instruction, and the cycle repeats — billions of times per second.
