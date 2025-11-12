@@ -1,0 +1,16 @@
+Here’s a clear explanation of the difference between RAM and storage
+
+1. RAM (Random Access Memory)
+Type: Temporary (volatile) memory
+Purpose: Used by the computer to store data and instructions currently in use so the CPU can access them quickly.
+Data retention: Data is lost when the computer is turned off.
+Speed: Very fast — helps programs run smoothly.
+Example: When you open a web browser or a game, it loads into RAM so it can run quickly.
+
+2. Storage (Hard Drive or SSD)
+
+Type: Permanent (non-volatile) memory
+Purpose: Used to store data and programs long-term, even when the computer is off.
+Data retention: Data is kept after the computer is turned off.
+Speed: Slower than RAM but has much larger capacity.
+Example: Files, documents, apps, and the operating system are saved in storage.
